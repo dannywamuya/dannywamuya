@@ -6,8 +6,8 @@
 
 ```
 
-<!-- - 🚀 I’m currently working on socket & audio programming -->
-<!-- - 📚 I’m currently learning c/c++ & dsa -->
+- 🚀 I’m currently working on socket & audio programming
+- 📚 I’m currently learning c/c++ & dsa
 
 ```
 
